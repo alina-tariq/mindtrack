@@ -1,5 +1,4 @@
-# Mind Track
-### Your Mental Health Tracker
+# Mind Track: Mental Health Tracker
 
 ## Languages
 * HTML
