@@ -14,5 +14,5 @@ and an appointment scheduler connected to your personal calendar. It also connec
 or decreases in mental health.  
 
 ## How To Use
-The project is currently deployed at [MindTrack](sthenic-smile.000webhostapp.com)
+The project is currently deployed at [MindTrack](https://sthenic-smile.000webhostapp.com/)
 
