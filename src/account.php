@@ -13,7 +13,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="dashboard.css" rel="stylesheet">
+        <link href="../css/dashboard.css" rel="stylesheet">
         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -25,7 +25,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
         <title>Account Info</title> 
         <link rel="icon" 
      type="image/png" 
-     href="logo3.png">
+     href="../img/logo3.png">
     </head>
 
 <!-- This page was inspired by the video: Responsive Admin Dashboard Layout With Html Css Grid by the YouTube channel CodersBite -->
@@ -147,6 +147,6 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
             </div>
         </div>
     </div>
-        <script src="dashboard.js"></script>
+        <script src="../js/dashboard.js"></script>
     </body>
 </html>

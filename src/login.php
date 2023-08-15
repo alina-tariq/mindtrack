@@ -100,14 +100,14 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
 </head>
 <body>
     <div class="container-flex">
         <!-- Navbar at the top of the page -->
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-blue border-bottom shadow-sm" style="background-color: #0e2a47";>
             <a class="mr-md-auto logo" href="index.html">
-            <img src="logo5.png" alt="logo" class="mr-md-auto logo">
+            <img src="../img/logo5.png" alt="logo" class="mr-md-auto logo">
             </a>
             <nav class="my-2 my-md-0 mr-md-3" >
               <a class="p-2 text-light" href="index.html">Home</a>
