@@ -69,8 +69,8 @@ if (mysqli_num_rows($today_score) > 0) {
                     <i class="fa fa-bars"></i>
                 </div>
                 <div class="navbar__left">
-                    <a href="contact.html">Contact Us</a>
-                    <a href="aboutus.html">About Us</a>
+                    <a href="../contact.html">Contact Us</a>
+                    <a href="../aboutus.html">About Us</a>
                 </div>
                 <div class="navbar__right">
                     

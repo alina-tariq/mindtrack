@@ -145,17 +145,17 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <div class="container-flex">
         <!-- Navbar at the top of the page -->
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-blue border-bottom shadow-sm" style="background-color: #0e2a47";>
-            <a class="mr-md-auto logo" href="index.html">
+            <a class="mr-md-auto logo" href="../index.html">
             <img src="../img/logo5.png" alt="logo" class="mr-md-auto logo">
             </a>
             <nav class="my-2 my-md-0 mr-md-3" >
-              <a class="p-2 text-light" href="index.html">Home</a>
-              <a class="p-2 text-light" href="pricing.html">Pricing</a>
-              <a class="p-2 text-light" href="contact.html">Contact Us</a>
+              <a class="p-2 text-light" href="../index.html">Home</a>
+              <a class="p-2 text-light" href="../pricing.html">Pricing</a>
+              <a class="p-2 text-light" href="../contact.html">Contact Us</a>
                 <a class=" p-2 text-light" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
                 <div class="dropdown-menu p-2 text-dark">
-                    <a class="dropdown-item " href="faq.html">FAQ</a>
-                    <a class="dropdown-item" href="aboutus.html">Meet Our Team</a>
+                    <a class="dropdown-item " href="../faq.html">FAQ</a>
+                    <a class="dropdown-item" href="../aboutus.html">Meet Our Team</a>
                 </div>
                 <a class="p-2 text-light" href="login.php">Login</a>
             </nav>
@@ -230,9 +230,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="col-6 col-md">
               <h5>Pricing</h5>
               <ul class="list-unstyled text-small">
-                <li><a class="text-muted" href="pricing.html">Basic Option</a></li>
-                <li><a class="text-muted" href="pricing.html">Pro Option</a></li>
-                <li><a class="text-muted" href="pricing.html">Enterprise Option</a></li>
+                <li><a class="text-muted" href="../pricing.html">Basic Option</a></li>
+                <li><a class="text-muted" href="../pricing.html">Pro Option</a></li>
+                <li><a class="text-muted" href="../pricing.html">Enterprise Option</a></li>
               </ul>
             </div>
             <div class="col-6 col-md">
@@ -247,8 +247,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="col-6 col-md">
               <h5>About</h5>
               <ul class="list-unstyled text-small">
-                <li><a class="text-muted" href="team.html">Team</a></li>
-                <li><a class="text-muted" href="faq.html">FAQ</a></li>
+                <li><a class="text-muted" href="../team.html">Team</a></li>
+                <li><a class="text-muted" href="../faq.html">FAQ</a></li>
               </ul>
             </div>
           </div>

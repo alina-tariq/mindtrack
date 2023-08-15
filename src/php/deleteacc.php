@@ -36,6 +36,6 @@ $dinfo = "DROP TABLE '$username'";
 mysqli_query($link, $dinfo);
 
 // Redirect to login page after done
-header("location: index.html");
+header("location: ../index.html");
 exit;
 ?>
